@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning DSA in JAVA
 - 💞️ I’m looking to collaborate on MIcrosoft and Google
 - I have learnt C,C++,MYSQL languages and have basic command over Python ,HTML and CSS
+- I have started learning full stack web development
+- I'm learning software testing.
 - I am looking for an Internship
 
 <!---
