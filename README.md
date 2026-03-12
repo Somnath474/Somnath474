@@ -28,19 +28,18 @@
 Name     : Somnath Gupta
 Handle   : Somnath474
 Role     : Full Stack Developer (Learning)
-Focus    : MERN Stack | DSA | Software Testing
-Learning : Java DSA | React | Node.js | MongoDB
+Focus    : MERN Stack | DSA 
+Learning : C++ DSA | React | Node.js | MongoDB |Express
 Goal     : Land an exciting Software Internship 🎯
-Status   : Open to Opportunities ✅
+Status   : Open to Opportunities 
 ```
 
 - 🎓 Passionate about **Full Stack Web Development** and building real-world applications
-- 💡 Sharpening **Data Structures & Algorithms** with Java daily
-- 🔧 Solid foundation in **C, C++, MySQL, Python, HTML, CSS**
-- 🧪 Exploring **Software Testing** methodologies
+- 💡 Sharpening **Data Structures & Algorithms** with C++ daily
+- 🔧 Solid foundation in **C, C++, MySQL,  HTML, CSS , Javascript**
 - 🤝 Looking to **collaborate** on impactful open source projects
 - 🌱 Currently diving deep into the **MERN Stack**
-- 💬 Ask me about **C++, Java, DSA, or Web Dev concepts**
+- 💬 Ask me about **C++, OOPS, DSA, or Web Dev concepts**
 - ⚡ Fun fact: I debug with `console.log` and I'm not ashamed
 
 ---
