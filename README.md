@@ -77,23 +77,116 @@ Status   : Open to Opportunities
 
 ---
 
-## 🚀 Featured Projects
-
+🚀 Featured Projects
+<div align="center">
+<table>
+  <!-- PROJECT 1: Zerodha — FLAGSHIP (full width) -->
+  <tr>
+    <td colspan="2">
+      <h3 align="center">🏦 Zerodha Trading App Clone &nbsp;<img src="https://img.shields.io/badge/FLAGSHIP%20PROJECT-★%20Full%20Stack-FF6B35?style=flat-square"/></h3>
+      <div align="center">
+        <a href="https://github.com/Somnath474/Zerodha-Trading-App-Clone">
+          <img src="https://img.shields.io/badge/GitHub%20Repo-Zerodha--Trading--App--Clone-181717?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </div>
+      <br/>
+      <p align="center">
+        A <strong>full-stack MERN clone</strong> of India's #1 stock trading platform — <strong>Zerodha</strong>. Built with a clean 3-module architecture: <code>frontend</code>, <code>backend</code>, and <code>dashboard</code>. Features a responsive landing page, live trading dashboard UI, portfolio tracker, and RESTful APIs — simulating a real-world fintech product end-to-end.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+        <img src="https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+  <!-- PROJECT 2 & 3: Spotify + Simon Says -->
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🎵 Spotify Clone &nbsp;<img src="https://img.shields.io/badge/🔴%20Live-1DB954?style=flat-square"/></h3>
+      <div align="center">
+        <a href="https://github.com/Somnath474/Spotify-Clone">
+          <img src="https://img.shields.io/badge/GitHub%20Repo-Spotify--Clone-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/>
+        </a>
+      </div>
+      <br/>
+      <p align="center">
+        A <strong>pixel-perfect Spotify UI clone</strong> built with HTML & CSS — deployed live! Includes a fully styled sidebar, music card grid, bottom player bar with controls, and all custom icons/assets. A deep dive into advanced CSS layout, flexbox, and real-world UI replication.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Flexbox-764ABC?style=flat-square&logo=css3&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Responsive%20Design-0ea5e9?style=flat-square&logo=googlechrome&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🎮 Simon Says Game &nbsp;<img src="https://img.shields.io/badge/🔴%20Live-FF6B6B?style=flat-square"/></h3>
+      <div align="center">
+        <a href="https://github.com/Somnath474/Simon-Says-Game-JavaScript-">
+          <img src="https://img.shields.io/badge/GitHub%20Repo-Simon--Says--Game-FF6B6B?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </div>
+      <br/>
+      <p align="center">
+        The classic <strong>Simon Says memory challenge</strong> — deployed live via GitHub Actions CI/CD! Features progressive difficulty, animated color flash sequences, keyboard & click interactivity, and instant game-over feedback. A polished vanilla JS project built with 14 commits.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+        <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+  <!-- PROJECT 4 & 5: DSA Projects -->
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🧮 Java Functions & DSA</h3>
+      <div align="center">
+        <a href="https://github.com/Somnath474/Function">
+          <img src="https://img.shields.io/badge/GitHub%20Repo-Function-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+        </a>
+      </div>
+      <br/>
+      <p align="center">
+        A focused deep-dive into <strong>Java functions and DSA fundamentals</strong>. Covers method overloading, recursion, scope, and return types — written as a clean learning journal for anyone starting out with Java programming.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+        <img src="https://img.shields.io/badge/OOP-0e75b6?style=flat-square&logo=java&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Recursion-2F8D46?style=flat-square&logo=thealgorithms&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🔷 Pattern Printing</h3>
+      <div align="center">
+        <a href="https://github.com/Somnath474/Pattern-Printing">
+          <img src="https://img.shields.io/badge/GitHub%20Repo-Pattern--Printing-6366F1?style=for-the-badge&logo=openjdk&logoColor=white"/>
+        </a>
+      </div>
+      <br/>
+      <p align="center">
+        A curated set of <strong>classic and advanced pattern problems in Java</strong> — the foundation of loop mastery! Covers triangles, pyramids, diamonds, number patterns, and more. Essential prep for coding interviews and logic building.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Loops%20%26%20Logic-6366F1?style=flat-square&logo=codeforces&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Interview%20Prep-FF6B35?style=flat-square&logo=leetcode&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+</table>
+</div>
 <div align="center">
 
-| 🗂️ Project | 📝 Description | 🔧 Tech |
-|:---:|:---:|:---:|
-| [**Function**](https://github.com/Somnath474/Function) | Deep dive into Java functions, method overloading, and recursion | `Java` |
-| [**Pattern-Printing**](https://github.com/Somnath474/Pattern-Printing) | Classic and advanced pattern problems to master loops and logic | `Java` |
-| [**Somnath-First-Repo**](https://github.com/Somnath474/Somnath-First-Repo) | The beginning of the coding journey 🌱 | `Git` |
-| [**LocalRepo**](https://github.com/Somnath474/LocalRepo) | Local experiments and sandbox projects | `Various` |
+🚀 Zerodha Clone & Simon Says Game are live deployed projects! More MERN apps in the pipeline.
 
+Show Image
 </div>
-
-> 🔨 **More exciting MERN stack projects coming soon!** Stay tuned and ⭐ this profile.
-
----
-
 ## 📊 Competitive Programming
 
 <div align="center">
